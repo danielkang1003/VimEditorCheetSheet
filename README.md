@@ -8,5 +8,5 @@ Vim Editor Download: https://www.vim.org/download.php
  - 종료: :q
  + 강제종료: :q!
  = 저장: :wq
- 강제 저장 및 종료: :wq!
- (!는 강제라는 의미를 가지고 있음)
+ * 강제 저장 및 종료: :wq!
+ - (!는 강제라는 의미를 가지고 있음)

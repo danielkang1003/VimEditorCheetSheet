@@ -1,4 +1,4 @@
-VimEditorCheetSheet
+Vim Editor Cheet Sheet
 =========
 Vim Editor Download: https://www.vim.org/download.php
 ***

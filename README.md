@@ -1,7 +1,6 @@
 # VimEditorCheetSheet
-=====================
 Vim Editor Download: https://www.vim.org/download.php
-
+---------
 Get Started
 1. 실행 저장 종료: 
 -실행: 다운로드 받은 Vim을 실행

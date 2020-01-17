@@ -1,5 +1,5 @@
 # VimEditorCheetSheet
-----
+====
 Vim Editor Download: https://www.vim.org/download.php
 
 Get Started

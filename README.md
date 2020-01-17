@@ -26,4 +26,4 @@ Vim Editor Download: https://www.vim.org/download.php
   
  - 상하좌우 한칸씩 이동: Shift를 누른 상태가 아닌 __H, J, K, L (H는 왼쪽, L은 오른쪽, J는 아래, K는 위)__
  - 꿀팁: 숫자를 상하좌우 이동 명령 전에 입력해주면 입력해준 숫자칸 만큼 이동을 한다.
-  +ex) 3 + j : 3칸 아래로 커서가 움직임 
+  + ex) 3 + j : 3칸 아래로 커서가 움직임 

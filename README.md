@@ -33,6 +33,6 @@ Vim Editor Download: https://www.vim.org/download.php
 > - w (단어의 시작 위치 또는 문장 부호의 첫 글자에서 멈춤)
 > - b ( w와 같은데 방향이 다름. 문장 부호나 단어의 시작위치로 이동을 하는데 역방향 (왼쪽) 으로 이동함)
 > - e (단어의 시작이 아닌 단어의 끝으로 이동)
->  ex) int main() { cin >> n >> m; return 0; } 가 한 줄에 있다고 하면 i 에서 시작하여 m, (, {, c, >, n, >, m, ; 이런식으로 이동
+> > ex) int main() { cin >> n >> m; return 0; } 가 한 줄에 있다고 하면 i 에서 시작하여 m, (, {, c, >, n, >, m, ; 이런식으로 이동
 
       

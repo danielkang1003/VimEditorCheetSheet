@@ -33,9 +33,9 @@ Vim Editor Download: https://www.vim.org/download.php
 > - w (단어의 시작 위치 또는 문장 부호의 첫 글자에서 멈춤)
 > - b ( w와 같은데 방향이 다름. 문장 부호나 단어의 시작위치로 이동을 하는데 역방향 (왼쪽) 으로 이동함)
 > - e (단어의 시작이 아닌 단어의 끝으로 이동)
-> - ex) Ama Et Fac Vis 가 있고 w를 누르면 A에서 시작하여 E F V 으로 이동
-> - ex) Ama Et Fac Vis 가 있고 e를 누르면 A에서 a로 이동을 시작하고 t c s로 이동
-> - ex) Ama Et Fac Vis 가 있고 Vis의 s에 커서가 있으면, V로 이동을 시작하고 F E A로 이동
+>      +   ex) Ama Et Fac Vis 가 있고 w를 누르면 A에서 시작하여 E F V 으로 이동
+>      +   ex) Ama Et Fac Vis 가 있고 e를 누르면 A에서 a로 이동을 시작하고 t c s로 이동
+>      +   ex) Ama Et Fac Vis 가 있고 Vis의 s에 커서가 있으면, V로 이동을 시작하고 F E A로 이동
      + 문제는 사용하다 보면 짧은 단어가 많아 너무 자주 멈춤. 문맥에 맞는 단어를 인식해서 이동하는 기능 즉 공백 단위로 이동하는 방법이 있음
      대문자 W B E를 사용하면 됨
 > -  W (w와 기능은 같지만 코딩을 예로 들자면 void BFS(int n){ 에서 W를 사용하면 BFS(int을 한 문장으로 인식하여서 v B n으로 이동을 한다

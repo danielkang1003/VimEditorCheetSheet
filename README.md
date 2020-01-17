@@ -2,6 +2,11 @@ VimEditorCheetSheet
 =========
 Vim Editor Download: https://www.vim.org/download.php
 ---------
+##Purpose
+마우스를 사용하지 않고 키보드 내에서 모든 입력을 처리할 수 있다는 것이 매력적인 Vim
+하지만 엄청 다양한 명령어와 입력어들에 까먹지 않고 한번에 찾아서 사용할 수 있도록 하기위해
+직접 터득한 Vim의 입력어 및 다양한 명령어를 여기다가 작성해나갈 계획입니다.
+---------
 ## Get Started
 > 1. 실행 저장 종료: 
  - 실행: 다운로드 받은 Vim을 실행

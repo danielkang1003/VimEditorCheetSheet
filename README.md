@@ -10,4 +10,4 @@ Vim Editor Download: https://www.vim.org/download.php
  - 저장: :w
  - 저장 및 종료 : :wq
  - 강제 저장 및 종료: :wq!
- - (!는 강제라는 의미를 가지고 있음)
+ * (!는 강제라는 의미를 가지고 있음)
